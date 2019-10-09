@@ -1,3 +1,5 @@
+注意：只有2.0.1版本可用，其他版本存在bug
+
 # AndroidSocketClient
 socket client server简易封装
 
